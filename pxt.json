@@ -10,7 +10,8 @@
         "README.md",
         "assets.json",
         "day1.md",
-        "main.py"
+        "main.py",
+        "day1-a.md"
     ],
     "testFiles": [
         "test.ts"
